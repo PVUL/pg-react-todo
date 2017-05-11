@@ -1,3 +1,10 @@
+/**
+ * Index.js
+ *
+ * ES6
+ *
+ * @author PVUL <github.com/PVUL>
+ */
 'use strict';
 
 const fs = require('fs');
