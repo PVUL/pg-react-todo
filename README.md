@@ -19,4 +19,4 @@ Add a record via postman
 2. Params to pass in:
 ```{
     title: <your_todo_name>
-  }```
+  }
