@@ -17,6 +17,7 @@ Todo:
 Add a record via postman
 1. Make post request to `localhost:8000/api/todos`
 2. Params to pass in:
-```  {
+```  
+  {
     title: <your_todo_name>
   }
